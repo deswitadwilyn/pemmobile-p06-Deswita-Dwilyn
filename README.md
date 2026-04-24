@@ -30,7 +30,7 @@
 ]
 
 ## Cara Menjalankan
-1. Clone repo  : git clone [url-repo-kamu]
+1. Clone repo  : git clone [https://github.com/deswitadwilyn/pemmobile-p06-Deswita-Dwilyn.git]
 2. Install deps: npm install
 3. Jalankan    : npx expo start
 4. Scan QR Code dengan Expo Go di HP
